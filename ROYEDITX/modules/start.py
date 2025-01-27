@@ -34,7 +34,7 @@ async def start(_, m: Message):
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
-        await asyncio.sleep(2)
+        await asyncio.sleep(4)
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
