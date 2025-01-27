@@ -6,13 +6,13 @@ from ROYEDITX import BOT_USERNAME, OWNER
 DEV_OP = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ",
+            text="𝙃𝙄𝙅𝘼𝘾𝙆 𝙈𝙀⚡",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(text="𝙎𝙊𝙐𝙍𝘾𝙀⚡", callback_data="SOURCE"),
-        InlineKeyboardButton(text="𝙎𝙐𝙋𝙋𝙊𝙍𝙏⚡", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="𝙊𝙒𝙉𝙀𝙍⚡⚡", url=f"https://t.me/hewasSUBBU"),
     ],
     [
         InlineKeyboardButton(text="𝙃𝙀𝙇𝙋𝙎 & 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎⚡", callback_data="HELP"),
