@@ -56,7 +56,7 @@ async def help(client: LOCOPILOT, m: Message):
 @dev.on_message(filters.command("repo") & ~filters.bot)
 async def repo(_, m: Message):
     await m.reply_text(
-        text= f"""❖ ᴀʜᴀ ᴅᴇᴀʀ ᴄᴀɴᴛ ɢᴇᴛ ᴍʏ sᴏᴜʀᴠᴇ ᴄᴏᴅᴇ.. ɪᴍ ᴀʟɪᴠᴇ ᴊᴜsᴛ ᴛᴏ ᴘʟᴇᴀse ᴍʏ ʟᴏʀᴅ ᴡʜᴏ ɪs ɴᴏɴ ʙᴜᴛ sᴜʙʙᴜ.""",
+        text= f"""❖ ᴀʜᴀ ᴅᴇᴀʀ ᴄᴀɴᴛ ɢᴇᴛ ᴍʏ sᴏᴜʀᴠᴇ ᴄᴏᴅᴇ.. ɪᴍ ᴀʟɪᴠᴇ ᴊᴜsᴛ ᴛᴏ ᴘʟᴇᴀse ᴍʏ ʟᴏʀᴅ ᴡʜᴏ ɪs ɴᴏɴE ʙᴜᴛ sᴜʙʙᴜ.""",
         reply_markup=InlineKeyboardMarkup(CLOSE_BTN),
         disable_web_page_preview=True,
     )
