@@ -35,41 +35,31 @@ BOT_USERNAME = getenv("BOT_USERNAME", None)
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 
 STICKER = [
-"CAACAgUAAyEFAASFQ-2LAAEMGL9nl3VMNDDDkOGqPH5GOaS4iANgsQACgw8AAukZ0FT1SMcdEtTZmzYE",
-"CAACAgUAAyEFAASFQ-2LAAEL20hnlh8r2PzF6tp_6-k6Ibm_n-r7XAACohEAAnJyyVRmsZ-vz6WNXTYE",
-"CAACAgUAAyEFAASFQ-2LAAEL1g1nlgtR9OI7TCGUpAVRL5AN_QtVUwACeRIAAvTYOFT04MTtbO-FBjYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGPFnl3Yrqa5P56vZZ108IYr1miusqwACHBEAAjAwyVRezogRf5ejDTYE",
-"CAACAgUAAyEFAASFQ-2LAAEMFiJnl2rrz4k8sI3tz9RTE-J87mqboQACtBIAArKeyFSo8dj8EMI2FzYE",
-"CAACAgUAAyEFAASFQ-2LAAEMFiNnl2rswRiy5cxhpf2aMtu3WXbOHgACZRMAAkwn0FQECQFg42315DYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGPJnl3Yspi72qzHF1IY8gkiXta0tUgACphEAAs570VR9WMXVeaxIWTYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGNpnl3XE-9RoyqqjKynSdrK552sa8wACnxQAAiPx0VRpRSQIgVRVMjYE",
-"CAACAgUAAyEFAASFQ-2LAAEL5nlnlmf5VuajHpEXLN0a4kfwPuZTCAACuBAAAreS0VQByNe30ccy7zYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGO9nl3Yp_CYQTCwcO8Xa3Zz9Ujij6QAC6w8AAqqx0VTsU2z02LxUMDYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGPBnl3YqK6UmiIRPaJbM1Hjc3r2xbgAC0xIAAgkb0VSJk2NSH_Ot5zYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGPNnl3YtdldSeRLuFDpvXyKUPCR4ZgAC6hIAAq0i0VRAEwmGTDtffDYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGPZnl3YuVG_cqu7y53wdw8RuUMi8VQAC-xIAAldJyVSqN3fOuJgSczYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGPRnl3YtAVwknCDvlIYnAdUHUa2zfwACDRIAAnFp0FQPaOTdd_kl8zYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGSVnl3bjta9luvbD7vyBSmEkB4dqAwACKhMAAt83yVRjXa_RQPs2qjYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGShnl3blMfHo1t-VgeFzyq5aVEvBywAC7BIAAo_S0FRSyW0O6G6FqzYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGSZnl3bk_5tAWrV3f-ww7STGbd4KpgACzw8AArAc0VSi6XmPG6HiSzYE",
-"CAACAgUAAyEFAASFQ-2LAAEMGSpnl3bmUPyVFcLNVpLdi6e0dOZIsAACSBEAAmwB0FR8vRaxeqT48DYE",
+"CAACAgIAAyEFAASFQ-2LAAEMHIxnl4ltE58v-em4vp8EofkTFpiiWgAC6iYAAgG3wEpSVg47pk7VtTYE",
+"CAACAgIAAxkBAAIBv2eXkLyalAd2tzEKcs-T1AFhWNPJAAInHgAC_CuASoFeXSln7SS1NgQ",
+"CAACAgIAAxkBAAIBuGeXj5BSdjmPVYep8UU742cAAQZaMAAC_BwAAk10QUp_wIB_Y4jexTYE",
+"CAACAgIAAxkBAAIBuWeXj5kExP9rX8AD5cu9z8SaWdz-AALfHgACmgw5SsrwCgTQFg1ZNgQ",
+"CAACAgIAAxkBAAIBumeXj6Z99GxEdU2jZlgEn5K-I3isAAKMIgACAkg5SnRlx9FBQE_yNgQ",
+"CAACAgIAAxkBAAIBvGeXkHtAm6tbpy7GA5ih8S-p7KAOAAJuJwACbS9QSGBWUi2qpe55NgQ",
+"CAACAgIAAxkBAAIBvWeXkKx4SLPqttHYIMV3f6uTG0_SAAJFIQACzh15ShGj75LdJLi6NgQ",
+"CAACAgIAAyEFAASFQ-2LAAEMHItnl4lsy3hI0crE_uz8gCzm8O47rQACBSMAAhcYwEqp83Cbp22xWDYE",
 ]
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 
 IMG = [
-"https://files.catbox.moe/wzic2t.jpg",
-"https://files.catbox.moe/l8f2ub.jpg",
-"https://files.catbox.moe/xs4kch.jpg",
-"https://files.catbox.moe/vmrilv.jpg",
-"https://files.catbox.moe/1be9fq.jpg",
-"https://files.catbox.moe/67c7nd.jpg",
-"https://files.catbox.moe/xs4kch.jpg",
-"https://files.catbox.moe/67c7nd.jpg",
-"https://files.catbox.moe/34nehn.jpg",
-"https://files.catbox.moe/afj35l.jpg",
-"https://files.catbox.moe/e8z4pb.jpg",
-"https://files.catbox.moe/lvkq31.jpg",
+"https://files.catbox.moe/qutnt9.jpg",
+"https://files.catbox.moe/767coi.jpg",
+"https://files.catbox.moe/tn6msn.jpg",
+"https://files.catbox.moe/auhlr2.jpg",
+"https://files.catbox.moe/zgibcj.jpg",
+"https://files.catbox.moe/brzgtq.jpg",
+"https://files.catbox.moe/ztnb9u.jpg",
+"https://files.catbox.moe/hv28uy.jpg",
+"https://files.catbox.moe/aqtfqb.jpg",
+"https://files.catbox.moe/28042f.jpg",
+"https://files.catbox.moe/ktkgch.jpg",
+"https://files.catbox.moe/lhmv5z.jpg",
 ]
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
